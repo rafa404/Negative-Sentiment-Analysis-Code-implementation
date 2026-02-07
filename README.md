@@ -1,9 +1,3 @@
-# Negative-Sentiment-Analysis-Code-implementation
-
-Advanced negative sentiment analysis with 3 cutting-edge architectures: DeBERTa-MoE→BiGRU+Self-Attention→XGBoost ensemble, Transformer+CNN+Bi-LSTM multi-scale fusion, and dual-attention single models. PyTorch implementations with attention visualization & GPU optimization.
-
----
-
 # Negative Sentiment Analysis with Advanced Deep Learning Architectures
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
